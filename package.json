@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://fayaz-ui.github.io/tic-tac-toe",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
